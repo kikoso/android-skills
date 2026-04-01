@@ -1,3 +1,8 @@
+---
+name: android-git-skill
+description: Enforces safe, predictable, and standardized source control practices for Android repositories. Use when executing Git commands, staging changes, or managing version control operations.
+---
+
 # Android Gravity Skill: Git Operations
 
 ## Description

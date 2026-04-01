@@ -1,3 +1,8 @@
+---
+name: android-security-skill
+description: Enforces strict security practices for Android development, ensuring sensitive info protection. Use when modifying config files, implementing network clients, local databases, or adding logging/crash reporting.
+---
+
 # Android Gravity Skill: Security
 
 ## Description
