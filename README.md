@@ -1,6 +1,6 @@
 # Android Gravity Skills
 
-This directory contains specialized skills for Android Gravity to enforce best practices during software development.
+This directory contains specialized skills for Android & Gravity to enforce best practices during software development.
 
 ## Available Skills
 
